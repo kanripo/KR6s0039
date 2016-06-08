@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:08:01.436348
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:58
 #+TITLE: 祈願文
 #+PROPERTY: CBETA_ID T85n2847
 #+PROPERTY: ID KR6s0039
